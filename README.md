@@ -1,2 +1,1 @@
-# CometCab
-CometCab
+Object Oriented Analysis and design
